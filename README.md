@@ -23,4 +23,5 @@ LaTeX Workshop at Shiftkey Labs, Faculty of Computer Science, Dalhousie Universi
 3. Click on create first project and select blank project. 
 4. Name your first project and click create. 
 5. Copy the template (template.tex) file from this repo and replace it in your code area of shareLatex. 
-6. Your env is ready. 
+6. Recompile the document. 
+7. Your env is ready to use. 

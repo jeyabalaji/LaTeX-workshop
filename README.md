@@ -28,7 +28,7 @@ LaTeX Workshop at Shiftkey Labs, Faculty of Computer Science, Dalhousie Universi
 
 
 
-# Slack Instructions:
+#### Slack Instructions:
 1. Download Slack from Google Playstore/ App Store.
 2. You can create your own work team or join an existing work team.
 3. The members of the group can be given different levels of access. 

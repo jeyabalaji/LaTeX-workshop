@@ -25,3 +25,14 @@ LaTeX Workshop at Shiftkey Labs, Faculty of Computer Science, Dalhousie Universi
 5. Copy the template (template.tex) file from this repo and replace it in your code area of shareLatex. 
 6. Recompile the document. 
 7. Your env is ready to use. 
+
+
+
+# Slack Instructions:
+1. Download Slack from Google Playstore/ App Store.
+2. You can create your own work team or join an existing work team.
+3. The members of the group can be given different levels of access. 
+    1. Change of ownership:  https://team-name.slack.com/admin/transfer
+    2. Change the access of users: Directory -> change the access
+4. Notifications can be customised by using keywords, mentions etc.
+5. Slack has various options which you can explore.

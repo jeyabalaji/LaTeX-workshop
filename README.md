@@ -41,6 +41,7 @@ LaTeX Workshop at Shiftkey Labs, Faculty of Computer Science, Dalhousie Universi
 #### Doodle Instructions:
 1. Install Doodle from Playstore/ App Store.
 2. Sign up for personal account or use it as a guest.
+   URL - https://doodle.com/dashboard
 3. Create poll for your events with four simple steps.
    * Step 1: Schedule an event --> Provide Title, Location and Description of the event
    * Step 2: Propose Times --> Choose the date and time slots for the event

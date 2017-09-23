@@ -1,0 +1,9 @@
+In this process the probability of w1 given a a series of words are represented as 
+\begin{equation}\label{eqn1}
+\prod_{i=1}^m P(w_i | w_1, w_2,...w_n) = P(w_1)  \prod_{i=2}^m P(w_i | w_{i-1})
+\end{equation}
+
+After the individual probabilities in a LM are generated using the above given equation, the perplexity for each language model is generated using, 
+\begin{equation}\label{eqn2}
+log \prod_{i=1}^m P(t_i)= \sum_{i=1}^m log P(t_i)
+\end{equation}

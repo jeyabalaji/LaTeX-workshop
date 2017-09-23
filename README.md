@@ -36,3 +36,16 @@ LaTeX Workshop at Shiftkey Labs, Faculty of Computer Science, Dalhousie Universi
     2. Change the access of users: Directory -> change the access
 4. Notifications can be customised by using keywords, mentions etc.
 5. Slack has various options which you can explore.
+
+
+#### Doodle Instructions:
+1. Install Doodle from Playstore/ App Store.
+2. Sign up for personal account or use it as a guest.
+3. Create poll for your events with four simple steps.
+   Step 1: Schedule an event --> Provide Title, Location and Description of the event
+   Step 2: Propose Times --> Choose the date and time slots for the event
+   Step 3: Customize the poll options --> Yes-No-Ifneedbe Poll, Hidden Poll, Limit Number of Participants per Option,
+                                          Participant Can Only Choose One Option
+   Step 4: Invite participants --> Email, Facebook, Twitter
+4. Post the invitation link on social media if it is a large event.
+5. Explore the app for other notable features.
